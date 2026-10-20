@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>BIM交付检查</Name>
+    <Assembly>__ASSEMBLY_PATH__</Assembly>
+    <AddInId>AA2E7597-7008-4B7D-86F4-9E76FC436A2B</AddInId>
+    <FullClassName>RevitParameterChecker.EntryPoint</FullClassName>
+    <VendorId>CODX</VendorId>
+    <VendorDescription>Local first version BIM material inventory and drawing compliance checker</VendorDescription>
+  </AddIn>
+</RevitAddIns>

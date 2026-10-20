@@ -1,2 +1,6 @@
-# 工具生成的状态目录
-.mimosa/
+bin/
+obj/
+.vs/
+work/
+*.user
+*.suo
